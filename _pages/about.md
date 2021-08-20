@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello, world!
+Hi, I am a fifth year PhD student in Operations Research at H. Milton School of Industrial and Systems Engineering, Georgia Institute of Technology.
+My advisor is Andy Sun.
