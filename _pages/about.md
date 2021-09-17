@@ -15,3 +15,5 @@ My advisor is [Andy Sun](https://sites.google.com/view/asunlab/).
 My research interests lie generally in extending the boundary of convex optimization theory and methods.
 With new perspectives from convex analysis and convex algebraic geometry, I aim to provide theoretic and algorithmic insights on problems that are often perceived as intractable, such as mixed-integer nonconvex quadratically constrained programs, and multistage robust and stochastic programs.
 Such problems find ubiquitous applications in energy systems operation (including power systems and natural gas networks) and inventory control.
+
+My CV can be downloaded [here](files/CV_Shixuan.pdf).
