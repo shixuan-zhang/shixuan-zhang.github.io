@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Zhang (张,[IPA](https://en.wikipedia.org/wiki/Help:IPA/Mandarin) [ʈʂáŋ]) Shi-Xuan(世轩,[ʂɻ̩̂·ɕuán]). 
-I am currently a PhD candidate in Operations Research at [ISyE, Georgia Tech](https://www.isye.gatech.edu).
-My PhD advisor is [Prof. Andy Sun](https://sites.google.com/view/asunlab/).
+Hi, my name is Zhang (张) Shi-Xuan(世轩). 
+I am currently an institute postdoctoral fellow at [ICERM](https://icerm.brown.edu), mentored by [Dr. Greg Blkherman](https://sites.google.com/site/grrigg/) during Fall 2022.
+I received my PhD degree in Operations Research at [ISyE, Georgia Tech](https://www.isye.gatech.edu), advised by [Dr. Andy Sun](https://mitmgmtfaculty.mit.edu/sunx/).
 
 
 My research interests lie generally in mathematical optimization theory, methodology, and related engineering applications. 
-Many optimization problems, including mixed-integer quadratic constrained optimization or adaptive stochastic and distributionally robust optimization, arising from extremely important applications such as energy systems (e.g., electric power grids and natural gas networks) planning, and inventory control under uncertainty, are often perceived as intractable due to the absence of convexity or the large or even infinite dimensionality. 
+Many optimization problems, including mixed-integer polynomial optimization or adaptive stochastic and distributionally robust optimization, arising from important applications such as energy systems and logistics planning, are often perceived as intractable due to the absence of convexity or the large or even infinite dimensionality. 
 With novel perspectives and methodological tools from convex analysis and convex algebraic geometry, I aim to provide theoretic and algorithmic insights with practically efficient optimization solutions for these complex systems under uncertainty.
 
 
 My CV can be downloaded [here](files/shixuan_CV.pdf). 
-*I am currently on the 2021-2022 academic job market and looking for faculty position openings in OR/Math/IE/EE and related fields.*
+*I am currently looking for positions in OR/Math/IE/EE and related fields.*
