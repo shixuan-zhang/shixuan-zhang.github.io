@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, my name is Zhang (张) Shi-Xuan(世轩). 
-I am currently an institute postdoctoral fellow at [ICERM](https://icerm.brown.edu), mentored by [Dr. Greg Blkherman](https://sites.google.com/site/grrigg/) during Fall 2022.
+I am currently an institute postdoctoral fellow at [ICERM](https://icerm.brown.edu), mentored by [Dr. Greg Blekherman](https://sites.google.com/site/grrigg/) during Fall 2022.
 I received my PhD degree in Operations Research at [ISyE, Georgia Tech](https://www.isye.gatech.edu), advised by [Dr. Andy Sun](https://mitmgmtfaculty.mit.edu/sunx/).
 
 
