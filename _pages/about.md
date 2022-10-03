@@ -18,5 +18,5 @@ Many optimization problems, including mixed-integer polynomial optimization or a
 With novel perspectives and methodological tools from convex analysis and convex algebraic geometry, I aim to provide theoretic and algorithmic insights with practically efficient optimization solutions for these complex systems under uncertainty.
 
 
-My CV can be downloaded [here](files/shixuan_CV.pdf). 
+My CV can be downloaded [here](files/CV_shixuan.pdf). 
 *I am currently looking for positions in OR/Math/IE/EE and related fields.*
