@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Conference Talks
-* Dual Dynamic Programming for Data-driven Distributionally Robust Multistage Convex Optimization, INFORMS Annual Meeting 2022 [slides](files/INFORMS2022_shixuan.pdf)
+* Dual Dynamic Programming for Data-driven Distributionally Robust Multistage Convex Optimization, INFORMS Annual Meeting 2022 [(slides here)](https://shixuan-zhang.github.io/files/INFORMS2022_shixuan.pdf)
 * Dual Dynamic Programming for Data-driven Distributionally Robust Multistage Convex Optimization, International Conference on Continuous Optimization (ICCOPT) 2022
 * Dual Dynamic Programming for Data-driven Distributionally Robust Multistage Convex Optimization, INFORMS Optimization Society Meeting 2022
 * New Algorithms and Complexity Analysis for Distributionally Robust Multistage Convex Optimization, INFORMS Annual Meeting 2021
