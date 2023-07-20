@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Shixuan Zhang"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in ISEN, Texas A\&M University"
-  location         : "College Station, TX"
-  employer         :
+  bio              : "Assistant Professor in ISEN"
+  location         : # "College Station, TX"
+  employer         : "Texas A&M University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vB2CuaYAAAAJ&hl=en"
   email            :
@@ -204,6 +204,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
@@ -215,7 +233,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
