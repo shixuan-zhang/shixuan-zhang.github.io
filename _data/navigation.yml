@@ -1,14 +1,11 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /paper/
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talk/
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Posts"
-    url: /time-archive/
-
-      #   - title: "Teaching"
-      #     url: /teaching/    
+  #   - title: "Posts"
+  #     url: /time-archive/    
     

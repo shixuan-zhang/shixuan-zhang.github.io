@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 Hi, my name is Zhang (张) Shi-Xuan(世轩). 
-I am currently a postdoctoral fellow at [ICERM](https://icerm.brown.edu), mentored by [Dr. Greg Blekherman](https://sites.google.com/site/grrigg/).
-I received my PhD degree in Operations Research at [ISyE, Georgia Tech](https://www.isye.gatech.edu), advised by [Dr. Andy Sun](https://mitmgmtfaculty.mit.edu/sunx/).
+I received my PhD degree in Operations Research at [ISyE, Georgia Tech](https://www.isye.gatech.edu), advised by [Dr. Andy Sun](https://mitmgmtfaculty.mit.edu/sunx/). Before joining Texas A&M University, I was a postdoctoral fellow at [ICERM](https://icerm.brown.edu), mentored by [Dr. Greg Blekherman](https://sites.google.com/site/grrigg/).
 
+My research interests lie generally in mathematical optimization theory and algorithms for operations research, data science, and systems engineering.
+In particular, I have been working in the following areas:
 
-My research interests lie generally in mathematical optimization theory, methodology, and related engineering applications. 
-Many optimization problems, including mixed-integer polynomial optimization or adaptive stochastic and distributionally robust optimization, arising from important applications such as energy systems and logistics planning, are often perceived as intractable due to the absence of convexity or the large or even infinite dimensionality. 
-With novel perspectives and methodological tools from convex analysis and convex algebraic geometry, I aim to provide theoretic and algorithmic insights with practically efficient optimization solutions for these complex systems under uncertainty.
+* Polynomial and integer optimization
+* Stochastic and robust optimization
+* Energy systems planning
 
+__Prospective doctoral students:__ please do not hesitate to contact me if you have interest in working with me in any of these areas.
 
 My CV can be downloaded [here](files/CV_shixuan.pdf). 

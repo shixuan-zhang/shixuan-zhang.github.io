@@ -11,7 +11,7 @@ title                    : "Shixuan Zhang"
 logo                     : "/images/site-logo.png"
 title_separator          : "-"
 name                     : &name "Shixuan Zhang"
-description              : &description "PhD Candidate in OR"
+description              : &description "Researcher in Mathematical Optimization"
 url                      : "https://shixuan-zhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shixuan-zhang.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Shixuan Zhang"
   avatar           : "profile.png"
-  bio              : "PhD in OR"
-  location         : "Providence, RI"
+  bio              : "Assistant Professor in ISEN, Texas A\&M University"
+  location         : "College Station, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vB2CuaYAAAAJ&hl=en"
@@ -176,10 +176,10 @@ kramdown:
 
 # Collections
 collections:
-  papers:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -204,24 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:
