@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shixuan Zhang"
-logo                     : "/images/site-logo.png"
+logo                     : # "/images/site-logo.png"
 title_separator          : "-"
 name                     : &name "Shixuan Zhang"
 description              : &description "Researcher in Mathematical Optimization"
@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shixuan Zhang"
+  name             : Shixuan Zhang
   avatar           : "profile.png"
-  bio              : "Assistant Professor in ISEN"
-  location         : # "College Station, TX"
-  employer         : "Texas A&M University"
+  bio              : Assistant Professor in <a href="https://engineering.tamu.edu/industrial" target="_blank">ISEN</a>
+  location         : College Station, TX
+  employer         : # "Texas A&M University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vB2CuaYAAAAJ&hl=en"
   email            :
