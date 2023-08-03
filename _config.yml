@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : Shixuan Zhang
+  name             : "Shixuan Zhang"
   avatar           : "profile.png"
-  bio              : Assistant Professor in <a href="https://engineering.tamu.edu/industrial" target="_blank">ISEN</a>
-  location         : College Station, TX
-  employer         : # "Texas A&M University"
+  bio              : "Assistant Professor"
+  location         : # "College Station, TX"
+  employer         : "Texas A&M University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vB2CuaYAAAAJ&hl=en"
-  email            :
+  email            : "shixuan.zhang@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0606-4756"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
