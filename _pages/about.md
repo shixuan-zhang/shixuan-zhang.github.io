@@ -19,6 +19,4 @@ In particular, I have been working in the following areas:
 * Stochastic and robust optimization;
 * Energy systems planning.
 
-__Prospective doctoral students:__ please do not hesitate to contact me if you have interest in working with me in any of these areas.
-
 My CV can be downloaded [here](files/CV_shixuan.pdf) (last updated on 2023-09-06). 
