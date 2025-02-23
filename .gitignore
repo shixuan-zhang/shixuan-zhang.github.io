@@ -1,3 +1,9 @@
+# ignore the editor files
+*.swp
+
+# ignore ruby/gem bundle files
+.bundle
+
 # ignore the _site/ directory for local builds
 _site/
 
