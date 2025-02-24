@@ -9,6 +9,3 @@ author_profile: true
 * Jiamin Chen
 * Qi Xiao
 
-## Prior Mentors
-* [Greg Blekherman](https://sites.google.com/site/grrigg/)
-* [Xu Andy Sun](https://sites.google.com/view/asunlab/)
