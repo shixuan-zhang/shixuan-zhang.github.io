@@ -7,5 +7,8 @@
 # ignore the _site/ directory for local builds
 _site/
 
+# ignore cache files
+.sass-cache/
+
 # ignore the Gemfile.lock for local builds
 Gemfile.lock
