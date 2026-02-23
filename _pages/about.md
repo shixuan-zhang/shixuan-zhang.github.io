@@ -23,4 +23,4 @@ I have been working with my PhD students:
 - [Jiamin Chen](/jiamin-chen/) (2024-current);
 - [Qi Xiao](/qi-xiao/) (2024-current).
 
-For more information, my CV can be downloaded [here](files/CV_shixuan.pdf) (updated on 2025-02-21). 
+For more information, my CV can be downloaded [here](files/CV_shixuan.pdf) (updated on 2026-02-22). 
